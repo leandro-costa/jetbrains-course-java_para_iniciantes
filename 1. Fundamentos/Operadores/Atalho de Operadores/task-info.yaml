@@ -1,0 +1,5 @@
+type: theory
+custom_name: 'Atalho de Operadores '
+files:
+- name: src/ShortcutOperators.java
+  visible: true
