@@ -1,0 +1,5 @@
+Caro Pedro, obrigado por apoiar nosso negócio!
+Xícaras de café compradas: 1.
+Custo de 1 xícara(s) de café: R$ 9.9.
+Seu total é: R$ 9.9.
+A gorjeta está incluída? true.

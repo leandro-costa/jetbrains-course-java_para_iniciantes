@@ -1,0 +1,12 @@
+type: marketplace
+title: Java para Iniciantes
+language: Portuguese
+summary: |-
+  Originalmente criado como um recurso de aprendizado on -line para os alunos de Hsinchu Escola Internacional em Taiwan, mas lançada para o público em geral
+
+  Este curso abrange os principais aspectos do idioma: loops, condicionais, objetos, métodos, matrizes e arraylists. Introduz a maioria dos tópicos da ciência da computação.
+
+  Destina-se como um complemento a um curso de codificação regular, não como substituto.
+programming_language: Java
+content:
+- Fundamentos

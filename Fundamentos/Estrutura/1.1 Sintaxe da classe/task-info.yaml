@@ -1,0 +1,11 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: O nome da classe está incorreto
+  is_correct: true
+- text: Não há instruções dentro do método principal
+  is_correct: false
+files:
+- name: src/ClassSyntax.java
+  visible: true
+local_check: true
